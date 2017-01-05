@@ -1,0 +1,23 @@
+{
+  "name": "ep_today_pad",
+  "version": "0.0.1",
+  "description": "Etherpad lite plugin to redirect to a pad named with today's date. Call http://example.com/today to visit today's pad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moparisthebest/ep_today_pad"
+  },
+  "keywords": [
+    "etherpad",
+    "lite",
+    "plugin",
+    "today",
+    "pad"
+  ],
+  "author": "moparisthebest <admin@moparisthebest.com>",
+  "license": "GPLv3",
+  "readmeFilename": "README.md"
+}
